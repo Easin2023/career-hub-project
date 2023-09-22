@@ -1,0 +1,55 @@
+[
+     {
+       "id": 1,
+       "logo": "company1_logo.png",
+       "jobTitle": "Software Engineer",
+       "company_name": "TechCorp",
+       "remote_or_onsite": "Remote",
+       "location": "Any",
+       "job_type": "Full-time",
+       "salary": "$100,000 - $120,000",
+       "job_description": "As a Software Engineer at TechCorp, you'll play a pivotal role in our remote team. You'll be responsible for designing, developing, and maintaining cutting-edge software applications that drive our business. You'll have the opportunity to collaborate with cross-functional teams, bringing innovative solutions to life. This role offers a competitive salary range of $100,000 - $120,000 per year, along with the flexibility of remote work."
+       ,
+       "job_responsibility": "Your responsibilities will span the software development lifecycle. You'll write clean and efficient code, perform rigorous debugging and troubleshooting, and continuously enhance application performance. Collaborating with software architects, you'll contribute to code reviews and help shape the architectural direction of our products. Your efforts will be instrumental in delivering high-quality software solutions to our clients."
+     },
+     {
+       "id": 2,
+       "logo": "company2_logo.png",
+       "jobTitle": "Data Scientist",
+       "company_name": "DataTech",
+       "remote_or_onsite": "Onsite",
+       "location": "New York, NY",
+       "job_type": "Contract",
+       "salary": "$90,000 - $110,000",
+       "job_description": "Join DataTech as a Data Scientist in the vibrant city of New York, NY. In this role, you'll be at the forefront of data analysis and modeling, leveraging your skills to make a significant impact. You'll work on exciting projects, shaping the future of data-driven decision-making. We offer a competitive salary range of $90,000 - $110,000 for this contract position."
+       ,
+       "job_responsibility": "As a Data Scientist, your responsibilities will encompass the full data lifecycle. You'll collect, clean, and analyze data, developing predictive models and generating actionable insights. Collaborating closely with cross-functional teams, you'll translate data into business recommendations, playing a pivotal role in driving DataTech's growth and success."
+     },
+     {
+       "id": 3,
+       "logo": "company3_logo.png",
+       "jobTitle": "Marketing Manager",
+       "company_name": "AdvertiseMe",
+       "remote_or_onsite": "Remote",
+       "location": "Any",
+       "job_type": "Part-time",
+       "salary": "$60,000 - $80,000",
+       "job_description": "AdvertiseMe is in search of a talented Marketing Manager for remote work. In this role, you'll lead and strategize our marketing efforts across various channels, contributing to our brand's growth and success. This part-time position offers a competitive salary range of $60,000 - $80,000."
+       ,
+       "job_responsibility": "Your responsibilities as a Marketing Manager will span a wide range of activities. You'll be responsible for planning and executing effective marketing campaigns, conducting thorough market research, tracking and analyzing performance metrics, and optimizing strategies for maximum impact. Collaboration with creative teams, budget management, and innovation will be key to your success."
+     },
+     {
+       "id": 4,
+       "logo": "company4_logo.png",
+       "jobTitle": "Graphic Designer",
+       "company_name": "DesignX",
+       "remote_or_onsite": "Onsite",
+       "location": "Los Angeles, CA",
+       "job_type": "Full-time",
+       "salary": "$70,000 - $90,000",
+       "job_description": "DesignX, located in the creative hub of Los Angeles, CA, is on the lookout for a talented Graphic Designer. In this role, you'll have the exciting opportunity to create visually stunning assets for a diverse range of projects, spanning from branding to web design. We offer a competitive salary range of $70,000 - $90,000 for this full-time position."
+       ,
+       "job_responsibility": "As a Graphic Designer at DesignX, you'll play a pivotal role in conceptualizing and producing design solutions that captivate our audience. Your work will encompass branding, marketing materials, and ensuring consistency across all visual assets. Your creative contributions will be essential in upholding our brand's reputation for excellence."
+     }
+   ]
+   
