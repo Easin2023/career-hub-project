@@ -13,7 +13,7 @@ const Cover = () => {
         <button className="btn btn-primary mt-6">Get Started </button>
       </div>
       <div className="mr-40">
-          <img className="w-full" src="../../../public/assets/images/user.png" alt="" />
+          <img className="w-full" src="https://i.ibb.co/Wcqss51/user.png" alt="" />
       </div>
     </div>
   );
