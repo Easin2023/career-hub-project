@@ -1,8 +1,8 @@
 import { createBrowserRouter } from "react-router-dom";
 import MainPage from "../Pages/MainPage/MainPage";
 import Error from "../component/ErrorPage/Error";
-import Category from "../component/Category/Category";
-import Featured from "../component/Featured/Featured";
+import Home from "../Pages/Home/Home";
+import ViewDetail from "../Pages/ViewFDetail/ViewDetail";
 
      const Router = createBrowserRouter([
           {
@@ -12,12 +12,13 @@ import Featured from "../component/Featured/Featured";
                children: [
                     {
                          path: '/',
-                         element:
-                         <>
-                         <Category></Category>
-                         <Featured></Featured>
-                         </>
+                         element: <Home></Home>
                     },
+                    {
+                         path: '/viewDetail/:id',
+                         element: <ViewDetail></ViewDetail>,
+                         loader: () => fetch('../../public/featured.json')
+                    }
                ]
           }
      ])

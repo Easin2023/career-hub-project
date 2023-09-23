@@ -1,0 +1,27 @@
+[
+     {
+       "job_name": "Software Developer",
+       "Jobs_Available": 100,
+       "id": "1",
+       "logo": "https://i.ibb.co/qBrSmsR/chip.png"
+     },
+     {
+       "job_name": "Data Analyst",
+       "Jobs Available": 500,
+       "id": "2",
+       "logo": "https://i.ibb.co/wybV4MT/creative.png"
+     },
+     {
+       "job_name": "Marketing Manager",
+       "Jobs_Available": 800,
+       "id": "3",
+       "logo": "https://i.ibb.co/VDrpBjh/marketing.png"
+     },
+     {
+       "job_name": "Sales Representative",
+       "Jobs_Available": 1200,
+       "id": "4",
+       "logo": "https://i.ibb.co/Qpd5fdb/accounts.png"
+     }
+   ]
+   

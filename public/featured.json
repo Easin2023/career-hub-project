@@ -1,9 +1,9 @@
 [
      {
        "id": 1,
-       "logo": "company1_logo.png",
+       "logo": "https://i.ibb.co/MVMGfrb/google.png",
        "jobTitle": "Software Engineer",
-       "company_name": "TechCorp",
+       "company_name": "Google LLC",
        "remote_or_onsite": "Remote",
        "location": "Any",
        "job_type": "Full-time",
@@ -14,9 +14,9 @@
      },
      {
        "id": 2,
-       "logo": "company2_logo.png",
+       "logo": "https://i.ibb.co/nCRJBpp/netflix.png",
        "jobTitle": "Data Scientist",
-       "company_name": "DataTech",
+       "company_name": "Tesla",
        "remote_or_onsite": "Onsite",
        "location": "New York, NY",
        "job_type": "Contract",
@@ -27,9 +27,9 @@
      },
      {
        "id": 3,
-       "logo": "company3_logo.png",
+       "logo": "https://i.ibb.co/ZB3B3w1/tesla.png",
        "jobTitle": "Marketing Manager",
-       "company_name": "AdvertiseMe",
+       "company_name": "Netflix",
        "remote_or_onsite": "Remote",
        "location": "Any",
        "job_type": "Part-time",
@@ -40,9 +40,22 @@
      },
      {
        "id": 4,
-       "logo": "company4_logo.png",
+       "logo": "https://i.ibb.co/bgvL9cC/airbnb.png",
        "jobTitle": "Graphic Designer",
-       "company_name": "DesignX",
+       "company_name": "Google LLC",
+       "remote_or_onsite": "Onsite",
+       "location": "Los Angeles, CA",
+       "job_type": "Full-time",
+       "salary": "$70,000 - $90,000",
+       "job_description": "DesignX, located in the creative hub of Los Angeles, CA, is on the lookout for a talented Graphic Designer. In this role, you'll have the exciting opportunity to create visually stunning assets for a diverse range of projects, spanning from branding to web design. We offer a competitive salary range of $70,000 - $90,000 for this full-time position."
+       ,
+       "job_responsibility": "As a Graphic Designer at DesignX, you'll play a pivotal role in conceptualizing and producing design solutions that captivate our audience. Your work will encompass branding, marketing materials, and ensuring consistency across all visual assets. Your creative contributions will be essential in upholding our brand's reputation for excellence."
+     },
+     {
+       "id": 5,
+       "logo": "https://i.ibb.co/5YFZ3ff/Career-Hub.pngs",
+       "jobTitle": "Graphic Designer",
+       "company_name": "Google LLC",
        "remote_or_onsite": "Onsite",
        "location": "Los Angeles, CA",
        "job_type": "Full-time",
