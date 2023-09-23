@@ -1,14 +1,26 @@
 import { useLoaderData, useParams } from "react-router-dom";
+import { ToastContainer, toast } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
+import { setAppliedJobs } from "../../Utility/LocalStorage";
+
+
+
 
 const ViewDetail = () => {
      const useData = useLoaderData();
 
      const {id} = useParams()
+
      const init = parseInt(id)
-
+     
      const findData = useData.find(use => use.id === init)
-
+     
      const {job_description,job_responsibility} = findData;
+     
+     const applyJobs = () => {
+          setAppliedJobs(init)
+          toast('Apply success Full')
+     }
 
 
      return (
@@ -28,7 +40,8 @@ const ViewDetail = () => {
                </div>
                <div className=" col-span-1">
                     <h2>hallo vai</h2>
-                    <button className="btn btn-primary w-full">Apply Now</button>
+                    <button onClick={applyJobs} className="btn btn-primary w-full">Apply Now</button>
+                    <ToastContainer></ToastContainer>
                </div>
                </div> 
           </div>
